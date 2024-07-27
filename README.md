@@ -24,7 +24,7 @@
 <p align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=13&letterSpacing=0px&duration=01&pause=1&color=43413F&background=F8F8F5F0&center=true&vCenter=true&repeat=false&width=40&height=18&lines=Media" alt="Typing SVG" /></a>
 </p>
-<p align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender3.svg" height=18><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg" height=18><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/DaVinciResolve/davinciresolve1.svg" height=18></p>
+<p align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender3.svg" height=16><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg" height=16><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/DaVinciResolve/davinciresolve1.svg" height=16></p>
 <p><br><br></p>
 
 <p align="center">
