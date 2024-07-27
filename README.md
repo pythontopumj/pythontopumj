@@ -9,7 +9,7 @@
 <p align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg"><br><br><br><br><br></p>
 
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=550&size=18&letterSpacing=0px&duration=1&pause=1&color=F8F8F5&background=43413FF0&center=true&vCenter=true&repeat=False&width=70&height=23&lines=Prepare" alt="Typing SVG" /><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=550&size=18&letterSpacing=0px&duration=1000&pause=600&color=F8F8F5&background=43413FF0&center=true&vCenter=true&repeat=True&width=15&height=23&lines=_ " alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=550&size=20&letterSpacing=0px&duration=1&pause=1&color=F8F8F5&background=43413FF0&center=true&vCenter=true&repeat=False&width=76&height=23&lines=Prepare" alt="Typing SVG" /><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=550&size=20&letterSpacing=0px&duration=1000&pause=600&color=F8F8F5&background=43413FF0&center=true&vCenter=true&repeat=True&width=15&height=23&lines=_ " alt="Typing SVG" /></a>
 </p>
 <p align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django1.svg"><br><br><br></p>
 
