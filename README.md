@@ -6,7 +6,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=690&size=32&letterSpacing=-1.2px&duration=1000&pause=1500&color=43413F&background=F8F8F5F0&center=true&vCenter=true&repeat=false&width=165&height=34&lines=AVAILABLE" alt="Typing SVG" /></a>
 <br><br></p>
-<p align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg"height=34><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg"height=34></p>
+<p align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg"height=36><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg"height=36></p>
 <p><br><br><br><br><br></p>
 
 <p align="center">
