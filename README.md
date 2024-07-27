@@ -1,5 +1,5 @@
 
-<p align="center"><img src="pythontopumj_weather.gif" />
+<p align="center"><img src="pythontopumj_weather_v2.gif" />
 </p>
 <p><br><br></p>
 <p align="center">
