@@ -18,7 +18,7 @@
 <p align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=13&letterSpacing=0px&duration=01&pause=1&color=43413F&background=F8F8F5F0&center=true&vCenter=true&repeat=false&width=35&height=18&lines=DAW" alt="Typing SVG" /></a>
 </p>
-<p align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg" height=26></p>
+<p align="center"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg" height=24></p>
 <p></p>
 
 <p align="center">
