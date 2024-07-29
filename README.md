@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://youtu.be/pIp8wEnPRMI?si=fL0iKcEnjRibwlJC" target="_blank" rel="noopener noreferrer"><img src="lightedit1080.gif" /></a>
+<p align="center"><a href="https://youtu.be/pIp8wEnPRMI?si=fL0iKcEnjRibwlJC" target="_blank" rel="noopener noreferrer"><img src="lightedit1080_v2.gif" /></a>
 </p>
 <p><br><br><br><br><br></p>
 
